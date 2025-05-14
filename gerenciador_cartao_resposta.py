@@ -28,6 +28,8 @@ import sys
 import os
 sys.path.insert(0, os.path.abspath("pyzbar"))
 
+# Teste alteração git
+
 # Caminho absoluto do Tesseract dentro do seu projeto
 tesseract_path = os.path.join(os.getcwd(), "tesseract", "tesseract.exe")
 pytesseract.pytesseract.tesseract_cmd = tesseract_path
