@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "gerenciador_cartao_resposta", "gerenciador_cartao_resposta.pyproj", "{C63211A5-6CAE-419A-95C6-366489E3A7AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C63211A5-6CAE-419A-95C6-366489E3A7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63211A5-6CAE-419A-95C6-366489E3A7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65388F8C-189E-405B-BBB4-19F87C5C38A1}
+	EndGlobalSection
+EndGlobal

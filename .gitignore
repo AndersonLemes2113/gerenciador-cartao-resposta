@@ -1,0 +1,25 @@
+# Ignora pastas de build e executáveis
+build/
+dist/
+*.exe
+*.pkg
+*.pyc
+__pycache__/
+*.log
+.venv/
+*.pdb
+
+# VS Code e Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos temporários
+*.bak
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
